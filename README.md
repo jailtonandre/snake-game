@@ -1,1 +1,1 @@
-# snake-game
+Criando jogo da cobrinha com JavaScript
